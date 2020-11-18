@@ -1,0 +1,19 @@
+{
+  "name": "absen",
+  "version": "1.0.0",
+  "description": "absen online",
+  "main": "index.js",
+  "scripts": {
+    "test": "online"
+  },
+  "repository": {
+    "type": "git",
+    "url": "absen"
+  },
+  "keywords": [
+    "AIzaSyDQhoau4zs86_LM-rb5TyXyNu2G9QAxFj0"
+  ],
+  "author": "d1:22:d9:ad:c3:e5:d5:ff:34:6b:32:c0:41:3f:5c:f3:a3:cc:46:58",
+  "license": "ISC"
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
